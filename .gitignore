@@ -1,0 +1,6 @@
+logs/*
+access_token.txt
+archive
+post_archive
+__pycache__/
+
